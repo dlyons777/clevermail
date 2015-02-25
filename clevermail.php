@@ -6,6 +6,6 @@ Description: Dopest mailing plugin EVER!
 Version: 1.0
 Author: Clever Digital Media
 Author URI: 
-License: 
+License: GPL v2
 License URI: 
 */
